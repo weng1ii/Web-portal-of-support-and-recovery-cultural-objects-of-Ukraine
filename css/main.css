@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;400&family=Raleway:wght@100;400&display=swap');
+
+html, body {
+	height:100%;
+	width:100%;
+}
+
+
+.d-inline-block {
+	width: 24px;
+	height: 42px;
+	overflow: hidden;
+	margin-top: -6px;
+	margin-left: -6px;
+}
+.question:hover;
+.question:focus{
+	color:black;
+}
+.question {
+	color: grey;
+}
+#home {
+	background: url(kyiv.jpg) no-repeat center center fixed;
+	display:table;
+	height: 100%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
+.landing-text {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+.landing-text h1 {
+	font-size: 500%;
+	font-weight: 700;
+
+}
+.textred {
+	color:white;	
+}
+.padding{
+	padding: 80px 0;
+}
+.padding img{
+	width: 100%;
+}
+#fixed {
+	background:url(dramteatr.jpg) no-repeat center center fixed;
+	display: table;
+	height: 80%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
+.icons {
+	width: 40px;
+	height: 40px;
+	color: grey;
+	text-decoration: none;
+}
+.icon {
+	height: 70px;
+	width: 70px;
+}
+#column {
+	text-align: center;
+}
+
+
+
+
